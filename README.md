@@ -5,7 +5,7 @@
  
 
 <h2>Description</h2>
-Project is a full stack flask project. The main graded compnent of this project was the backend, so a simple, but clean, css layout was used.<br />
+Project is a full stack flask project. The main graded component of this project was the backend, so a simple, but clean, css layout was used.<br />
 It has a number of features such as viewing, and hearing demos of products. The user can log in and create an account to see past orders and message the admin.<br />
 The admin can log in and update the products, which updates a number or items on the SQLite table in the database.<br />
 The user can add items to cart and "purchase" them and recieve downloads of the files they bought.
